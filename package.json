@@ -1,13 +1,12 @@
 {
   "name": "soundcloud-js",
   "description": "Simple SoundCloud API client",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "Simon Murtha-Smith <simon@murtha-smith.com>",
   "keywords": ["soundcloud"],
   "main" : "lib/soundcloud_client.js",
   "directories" : { "lib" : "./lib" },
   "dependencies": {
-    "oauth": ">= 0.8.2",
     "request": "2.2.9"
   },
   "repository" : {"type": "git" , "url": "http://github.com/smurthas/soundcloud-js.git" },
