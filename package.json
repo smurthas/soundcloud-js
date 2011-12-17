@@ -4,11 +4,11 @@
   "version": "0.0.0",
   "author": "Simon Murtha-Smith <simon@murtha-smith.com>",
   "keywords": ["soundcloud"],
-  "main" : "lib/soundcloud.js",
+  "main" : "lib/soundcloud_client.js",
   "directories" : { "lib" : "./lib" },
   "dependencies": {
     "oauth": ">= 0.8.2",
-    "request": "1.9.5"
+    "request": "2.2.9"
   },
   "repository" : {"type": "git" , "url": "http://github.com/smurthas/soundcloud-js.git" },
   "engines": { "node": ">= 0.4.0" }
